@@ -9,7 +9,16 @@ Since Qt was used to write the application, it can be used on both Android and i
 
 Login Screen
 
-<img height=400 src="https://github.com/tghays/QTLocationTracker/blob/master/login.png">
+<img height=500 src="https://github.com/tghays/QTLocationTracker/blob/master/login.png">
 
 Welcome Screen
-![Welcome](https://github.com/tghays/QTLocationTracker/blob/master/welcome.png | height = 200)
+
+<img height=500 src="https://github.com/tghays/QTLocationTracker/blob/master/welcome.png">
+
+Starting Tracking
+
+<img height=500 src="https://github.com/tghays/QTLocationTracker/blob/master/tracking.png">
+
+Location Sync
+
+<img height=500 src="https://github.com/tghays/QTLocationTracker/blob/master/sync.png">

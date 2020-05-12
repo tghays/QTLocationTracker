@@ -6,3 +6,9 @@ The Application was built using ArcGIS AppStudio, written in Qt using the ArcGIS
 An associated web interface can pull the feature service in using the ArcGIS Javascript API to view the live updates to the feature service that the mobile tracker application is syncing.
 
 Since Qt was used to write the application, it can be used on both Android and iOS devices.
+
+Login Screen
+![Login](https://github.com/tghays/QTLocationTracker/blob/master/login.png)
+
+Welcome Screen
+![Welcome](https://github.com/tghays/QTLocationTracker/blob/master/welcome.png)

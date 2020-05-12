@@ -8,7 +8,7 @@ An associated web interface can pull the feature service in using the ArcGIS Jav
 Since Qt was used to write the application, it can be used on both Android and iOS devices.
 
 Login Screen
-![Login](https://github.com/tghays/QTLocationTracker/blob/master/login.png | height = 200)
+<img height=200 src="https://github.com/tghays/QTLocationTracker/blob/master/login.png">
 
 Welcome Screen
 ![Welcome](https://github.com/tghays/QTLocationTracker/blob/master/welcome.png | height = 200)
